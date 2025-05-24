@@ -1,0 +1,87 @@
+3 Pages 
+Home, Saved, Searh
+Subscription based - cant see entire app
+
+Home:
+
+Search bar first
+Dietary preferce
+Gallery -
+	inspiration
+	meal plans
+	editors picks
+	podcasts
+	food stories
+
+Saved - "my good food":
+Search saved recipes
+make colletions of recipes
+sort old to new
+
+Search:
+find through ingredients dishes and keywords
+search for recipes and recipe collections
+search filter - 
+	Meal type "baking", "cocktails"
+	Total time
+	Diet types
+	Difficulty
+	Cuisine
+	Rating
+	Servings
+	Calories
+	Author
+
+Other:
+How-to videos
+Ask questions
+Comment and rate recipes
+Keep recipe on-screen with "cook mode"
+
+
+Comparison:
+Home page, saved recipes and search works well. Maybe a shopping list?
+
+A Home page with inspiration and rotating top picks works well however, podcasts, food stories and meal plans arent needed for students.
+
+Having the ability to save recipes and make collections is useful - collections might not be nesescary for students - Maybe could create different sections automatially for different meal types.
+
+For students, the search features doesn't need so many filters. A very useful feature would be the total time filter. 
+
+There mgiht be a use for an equipment page or opening questions so that reipes that reqiure certain equipment aren't shown
+
+APP:
+
+Features - 
+
+	Home page:
+		Suggestions and rotating "Top Picks" along with gallery
+
+	Saves:
+		Save recipes and find them in their respective sections. Each recipe will also have an average time and cost. 
+
+	Search:
+		Find recipes based on things like toltal time, ingrdietns or total cost.
+
+	Shopping List:
+		-Search through meals you can add each ingredient to the shopping list, so that ingredients you already have aren't added. 
+		-THis will aslo have an average cost for all ingredients. 
+		-Ingredients checked off you shopping list will be remembered - the user will be reminded when each item is about to go out of date, even suggesting recipes you can make to use up each ingredient
+
+
+App costs a few pounds
+
+
+-The Idea for this app is to base all recipes on cost
+-It will look up prices from a local store as to show the cheapest prices at the time
+-You can search through different filters such as ingrediates, meal type and cost
+-Searching through recipes will provide the meal, the total cost and total time required for the meal
+-Each meal can also be quickly modified to serve a different number of people
+-You can saved meals from searches, which will be saved in a seperate page to find later on.
+-Saves will be collected with there respective types, eg. breakfast, lunch, cocktails.
+-In each recipe you will be able to add ingredients to you shopping list
+-When shopping, each ingredient can be checked off quickly.
+-You can also take a picture of you recipt afterwards, logging the prices of each ingredient
+-When an ingredient you have bought is about to go out of date you will recieve a notification, highlighting recipes you can cook with said ingredient.
+
+ 

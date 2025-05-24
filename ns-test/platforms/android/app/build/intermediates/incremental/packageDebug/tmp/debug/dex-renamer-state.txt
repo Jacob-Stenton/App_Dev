@@ -1,0 +1,4 @@
+#Thu Mar 14 14:17:49 GMT 2024
+base.0=C\:\\UAL-Creative-Computing\\Year-Two\\AppDev\\ns-test\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
